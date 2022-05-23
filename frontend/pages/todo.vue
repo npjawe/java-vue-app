@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title">
-      My To Do List
+      My To Do List updated
     </h1>
     <to-do-list :todos="todos" />
   </div>
